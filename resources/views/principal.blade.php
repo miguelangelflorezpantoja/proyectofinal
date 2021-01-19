@@ -8,8 +8,7 @@
   <!--Indicators-->
   <ol class="carousel-indicators">
     <li data-target="#carousel-example-2" data-slide-to="0" class="active"></li>
-    <li data-target="#carousel-example-2" data-slide-to="1"></li>
-    <li data-target="#carousel-example-2" data-slide-to="2"></li>
+
   </ol>
   <!--/.Indicators-->
   <!--Slides-->
@@ -20,31 +19,15 @@
         <div class="mask rgba-black-light"></div>
       </div>
       <div class="carousel-caption">
-        <h3 class="h3-responsive">Bienvenidos al Hotel la Rivera</h3>
+        <h3 class="h3-responsive">Registro de estudiantes</h3>
       </div>
     </div>
-    <div class="carousel-item">
-      <!--Mask color-->
-      <div class="view">
-        <img class="d-block w-100" src="{{ url('/imagenes/2.jpg') }}"
-        height="550" alt="Second slide">
-        <div class="mask rgba-black-strong"></div>
-      </div>
-      <div class="carousel-caption">
-        <h3 class="h3-responsive">Bienvenidos al Hotel la Rivera</h3>
-      </div>
-    </div>
-    <div class="carousel-item">
-      <!--Mask color-->
-      <div class="view">
-        <img class="d-block w-100"  src="{{ url('/imagenes/3.jpg') }}"
-        height="550"  alt="Third slide">
-        <div class="mask rgba-black-slight"></div>
-      </div>
-      <div class="carousel-caption">
-        <h3 class="h3-responsive">Bienvenidos al Hotel la Rivera</h3>
-      </div>
-    </div>
+   
+
+
+
+
+   
   </div>
   <!--/.Slides-->
   <!--Controls-->
