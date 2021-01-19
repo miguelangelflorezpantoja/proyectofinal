@@ -1,7 +1,7 @@
 @section('content')
 @extends('layout.master')
 <center><h1>    Registro de materias  </h1></center>
-<p class="text-decoration-underline">This text has a line underneath it.</p>
+
 
 <h1>
 
