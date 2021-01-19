@@ -54,7 +54,7 @@
         <a class="nav-link" href="{{url('/reservas')}}">   </a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="{{url('/contactanos')}}">Bibliografía</a>
+        <a class="nav-link" href="{{url('')}}">Nosotros</a>
       </li>
     </ul>
   </div>
