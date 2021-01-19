@@ -17,10 +17,11 @@
     </tr>
     <tr>
       <th scope="row"></th>
+      <td colspan="1" class="table-active">Id materia</td>
       <td colspan="1" class="table-active">Nombre de materia</td>
-      <td colspan="2" class="table-active">Codigo de materia</td>
-      <td>Codigo de la materia</td>
-      <td>Total inscritos</td>
+      <td colspan="2" class="table-active">Intensidad horaria</td>
+      <td></td>
+      <td>Total inscritos en esta materia</td>
     </tr>
   </tbody>
 </table>

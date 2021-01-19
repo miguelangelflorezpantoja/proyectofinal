@@ -33,7 +33,7 @@
         </a>
         <div class="dropdown-menu dropdown-default" aria-labelledby="navbarDropdownMenuLink-333">
           <a class="dropdown-item" href="{{url('/regestudiante/regestudiante')}}">Registro Estudiantes</a>
-          <a class="dropdown-item" href="{{url('/servicios/eventos/o')}}">listado de estudiantes</a>
+          <a class="dropdown-item" href="{{url('/listadoestudiantes/listadoestudiantes')}}">listado de estudiantes</a>
          
         </div>
         
@@ -45,7 +45,7 @@
         </a>
         <div class="dropdown-menu dropdown-default" aria-labelledby="navbarDropdownMenuLink-333">
           <a class="dropdown-item" href="{{url('/servicios/habitaciones')}}">Registro de notas</a>
-          <a class="dropdown-item" href="{{url('/servicios/eventos/o')}}"></a>
+        
          
         </div>
         
