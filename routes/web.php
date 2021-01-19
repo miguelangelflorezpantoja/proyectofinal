@@ -9,6 +9,10 @@ use App\Http\Controllers\modmateria;
 use App\Http\Controllers\regestudiante;
 use App\Http\Controllers\listadomat;
 use App\Http\Controllers\listadoestudiantes;
+use App\Http\Controllers\regnotas;
+
+
+
 
 
 
@@ -26,7 +30,18 @@ use App\Http\Controllers\listadoestudiantes;
 Route::get('/', [Administracion::class, 'index']) ;
 
 Route::get('/regmaterias/regmaterias', [regmaterias::class, 'index']) ;
+
+
 Route::get('/listadomat/listadomat', [listadomat::class, 'index']) ;
+
+
 Route::get('/modmateria/modmateria', [modmateria::class, 'index']) ;
+
+
 Route::get('/regestudiante/regestudiante', [regestudiante::class, 'index']) ;
+
+
 Route::get('/listadoestudiantes/listadoestudiantes', [listadoestudiantes::class, 'index']) ;
+
+
+Route::get('/regnotas/regnotas', [regnotas::class, 'index']) ;

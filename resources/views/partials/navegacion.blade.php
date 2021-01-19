@@ -44,7 +44,7 @@
           aria-haspopup="true" aria-expanded="false">Notas
         </a>
         <div class="dropdown-menu dropdown-default" aria-labelledby="navbarDropdownMenuLink-333">
-          <a class="dropdown-item" href="{{url('/servicios/habitaciones')}}">Registro de notas</a>
+          <a class="dropdown-item" href="{{url('/regnotas/regnotas')}}">Registro de notas</a>
         
          
         </div>
